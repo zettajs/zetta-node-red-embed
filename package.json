@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "~4.13.3",
     "argo-connect": "~0.1.0",
-    "node-red": "~0.10.10",
+    "node-red": "~0.10.10"
   },
   "devDependencies": {},
   "scripts": {
