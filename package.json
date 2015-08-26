@@ -1,6 +1,6 @@
 {
   "name": "zetta-node-red-embed",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Embeds Node-RED into a running instance of Zetta.",
   "main": "embed.js",
   "dependencies": {
@@ -21,5 +21,13 @@
     "red"
   ],
   "author": "Kevin Swiber <kswiber@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zettajs/zetta-node-red-embed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zettajs/zetta-node-red-embed/issues"
+  },
+  "homepage": "https://github.com/zettajs/zetta-node-red-embed"
 }
