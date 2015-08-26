@@ -17,7 +17,7 @@ var LED = require('zetta-led-mock-driver');
 var settings = {
     httpAdminRoot: '/red',
     httpNodeRoot: '/api',
-    userDir: './.nodered/',
+    userDir: './.node-red/',
     functionGlobalContext: { }    // enables global context
 };
 
