@@ -1,6 +1,6 @@
 {
   "name": "zetta-node-red-embed",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Embeds Node-RED into a running instance of Zetta.",
   "main": "embed.js",
   "dependencies": {
