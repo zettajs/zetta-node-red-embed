@@ -7,9 +7,6 @@
     "express": "~4.13.3",
     "argo-connect": "~0.1.0",
     "node-red": "~0.10.10",
-    "zetta": "~0.32.0",
-    "zetta-led-mock-driver": "~0.8.0",
-    "zetta-photocell-mock-driver": "~0.5.0"
   },
   "devDependencies": {},
   "scripts": {
