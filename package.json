@@ -1,0 +1,25 @@
+{
+  "name": "zetta-node-red-embed",
+  "version": "0.1.0",
+  "description": "Embeds Node-RED into a running instance of Zetta.",
+  "main": "embed.js",
+  "dependencies": {
+    "express": "~4.13.3",
+    "argo-connect": "~0.1.0",
+    "node-red": "~0.10.10",
+    "zetta": "~0.32.0",
+    "zetta-led-mock-driver": "~0.8.0",
+    "zetta-photocell-mock-driver": "~0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zetta",
+    "node-red",
+    "red"
+  ],
+  "author": "Kevin Swiber <kswiber@gmail.com>",
+  "license": "MIT"
+}
